@@ -81,7 +81,7 @@ Safeguards?
 
 # Honesty
 
-Where to disclose AI use in:
+Where to disclose AI use:
 - in a paper?
 - in code?
 
